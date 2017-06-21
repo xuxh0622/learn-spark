@@ -7,6 +7,7 @@
 参看[官网入门教程](http://spark.apache.org/docs/latest/quick-start.html)，运行`paspark:python`或`spark-shell:scala`学习编程。
 
 ```scala
+[java@** /]$ ./spark-shell
 scala> val lines = sc.textFile("README.md")
 scala> lines.count()
 scala> lines.first()
