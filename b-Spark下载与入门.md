@@ -1,6 +1,6 @@
 ## 下载和安装Spark
 
-参看[spark安装说明文档](https://github.com/xuxh0622/learn-linuxsoftware/blob/master/4-spark.md)
+参看[spark安装说明文档](https://github.com/xuxh0622/learn-linuxsoftware/blob/master/d-spark.md)
 
 ## Spark中Python和Scala的Shell
 
